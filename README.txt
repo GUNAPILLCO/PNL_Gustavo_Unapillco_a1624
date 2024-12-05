@@ -46,7 +46,7 @@ Este desafío se centra en la generación de texto utilizando una red neuronal r
 
 ################################################################
 
-Desafio_4_Gustavo_Unapillco_a1624.pdf
+Desafio_4_Gustavo_Unapillco_a1624
 
 Este desafío se centra en la construcción de un chatbot de preguntas y respuestas (QA Bot). Se utiliza un modelo encoder-decoder con una capa LSTM para procesar la pregunta del usuario y generar una respuesta adecuada.
 
